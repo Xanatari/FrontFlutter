@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "233941446638",
+    "project_id": "tesisseriapiloto",
+    "storage_bucket": "tesisseriapiloto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233941446638:android:90d585e87ba1a125d9a8ff",
+        "android_client_info": {
+          "package_name": "com.mycompany.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233941446638-r45111iovkv3a65eh4ktc5pmn7e69dsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxO91sxFSHHryKOV_sp860v8OgUxiukU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233941446638-r45111iovkv3a65eh4ktc5pmn7e69dsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233941446638-2fkd2hopl671spf35i4b83mdmpgr0sq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
